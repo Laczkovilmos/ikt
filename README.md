@@ -1,2 +1,3 @@
 # ikt
-#github server
+# github server
+# lokális repo
